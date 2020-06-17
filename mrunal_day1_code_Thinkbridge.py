@@ -1,3 +1,6 @@
+#   Write a program that takes a number like 12345.67 and prints "Rs. Twelve Thousand Three Hundred Forty Five and 67/100"
+# Author : Mrunal Pawshekar
+# language : Python
 one=["zero","one","two","three","four","five","six","seven","eigth","nine"]
 two_digit=["","eleven","twelve","thirteen","fourteen","fifteen","sixteen","seventeen","eighteen","nineteen"]
 ten_mul=["","ten","twenty","thirty","fourty","fifty","sixty","seventy","eigthy","ninty"]
