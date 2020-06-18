@@ -1,6 +1,6 @@
-###ThinkBridge_intern
+## ThinkBridge_intern#
 
-#this is a python program which returns the output in words for the input currency value
+This is a python program which returns the output in words for the input currency value
 
-#Prerequisite 
+# Prerequisite 
 Make sure that you have Python3 installed on your machine.
