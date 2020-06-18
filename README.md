@@ -29,7 +29,7 @@ Paste thi provided source code and save the file with extension .py using File -
 
 Now, press F5 to run the script in the editor window. The IDLE shell will show the output.
 
-### For this program to execute give the input as any cuurency of 6 digit and it will show the currency in words
+### For this program to execute give the input as any cuurency of 6 digit upto 2 decimal precision and it will show the currency in words
 example:
 
 enter amount
