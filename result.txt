@@ -1,0 +1,78 @@
+
+AMOUNT=789659651.71
+ seventy eight crore ninety six lakh fifty nine thousand six hundred fifty one 71/100
+ अठहतरकरोड़ छियानवेलाख उनसठहज़ार छहसौ  इक्यावन71/100
+ अठ्ठ्याहत्तरकोटी शहाण्णवलाख एकोणसाठहजार सहाशे  एक्कावन्न71/100
+AMOUNT=1234.65
+ one thousand two hundred thirty four 65/100
+   एकहज़ार  दोसौ  चौंतीस65/100
+     एकहजार  दोनशे  चौतीस65/100
+AMOUNT=954123977.59
+ ninety five crore forty one lakh twenty three thousand nine hundred seventy seven 59/100
+ पचानवेकरोड़  इकतालीसलाख  तेइसहज़ार  नौसौ  सतहतर59/100
+ पंच्याण्णवकोटी  एक्केचाळीसलाख  तेवीसहजार  नऊशे  सत्याहत्तर59/100
+AMOUNT=1234.0
+ one thousand two hundred thirty four 0/100
+   एकहज़ार  दोसौ  चौंतीस0/100          # 4 sp - 1 sp
+     एकहजार  दोनशे  चौतीस0/100       # 6 sp
+AMOUNT=999999999.23
+ ninety nine crore ninety nine lakh ninety nine thousand nine hundred ninety nine 23/100
+ निन्यानवेकरोड़  निन्यानवेलाख  निन्यानवेहज़ार  नौसौ  निन्यानवे23/100
+ नव्व्याण्णवकोटी  नव्व्याण्णवलाख  नव्व्याण्णवहजार  नऊशे  नव्व्याण्णव23/100
+AMOUNT=20.0
+ twenty 0/100
+     बीस0/100
+         वीस0/100
+AMOUNT=27.0
+ twenty seven 0/100
+     सताइस0/100
+         सत्तावीस0/100
+AMOUNT=55.0
+ fifty five 0/100
+     पचपन0/100
+         पंचावन्न0/100
+AMOUNT=100.0
+ one hundred 0/100
+    एकसौ  0/100
+       एकशे   0/100
+AMOUNT=176.89
+ one hundred seventy six 89/100
+    एकसौ  छिहतर89/100
+       एकशे  शहात्तर89/100
+AMOUNT=1653.0
+ one thousand six hundred fifty three 0/100
+   एकहज़ार  छहसौ  तिरपन0/100
+     एकहजार  सहाशे  त्रेपन्न0/100
+AMOUNT=45986.0
+ forty five thousand nine hundred eighty six 0/100
+   पैंतालीसहज़ार  नौसौ  छियासी0/100
+     पंचेचाळीसहजार  नऊशे  शहाऐंशी0/100
+AMOUNT=786542.0
+ seven lakh eighty six thousand five hundred forty two 0/100
+  सातलाख  छियासीहज़ार  पांचसौ  बयालीस0/100
+   सातलाख  शहाऐंशीहजार  पाचशे  बेचाळीस0/100
+AMOUNT=9862486.0
+ ninety eight lakh sixty two thousand four hundred eighty six 0/100
+  अट्ठानवेलाख  बासठहज़ार  चारसौ  छियासी0/100
+   अठ्ठ्याण्णवलाख  बासष्ठहजार  चारशे  शहाऐंशी0/100
+AMOUNT=78961542.85
+ seven crore eighty nine lakh sixty one thousand five hundred forty two 85/100
+ सातकरोड़  नवासीलाख  इकसठहज़ार  पांचसौ  बयालीस85/100
+ सातकोटी  एकोणनव्वदलाख  एकसष्ठहजार  पाचशे  बेचाळीस85/100
+AMOUNT=789654235.0
+ अठहतरकरोड़  छियानवेलाख  चौवनहज़ार  दोसौ  पैंतीस0/100
+ अठ्ठ्याहत्तरकोटी  शहाण्णवलाख  चोपन्नहजार  दोनशे  पस्तीस0/100
+AMOUNT=789625436.12
+ seventy eight crore ninety six lakh twenty five thousand four hundred thirty six 12/100
+ अठहतरकरोड़  छियानवेलाख  पच्चीसहज़ार  चारसौ  छतीस12/100
+ अठ्ठ्याहत्तरकोटी  शहाण्णवलाख  पंचवीसहजार  चारशे  छत्तीस12/100
+AMOUNT=0.0
+ 0/100
+     0/100
+          0/100
+AMOUNT=0.0
+     0/100
+AMOUNT=321654789.49
+ बतीसकरोड़  सोलहलाख  चौवनहज़ार  सातसौ  नवासी49/100
+ thirty two crore sixteen lakh fifty four thousand seven hundred eighty nine 49/100
+ बत्तीसकोटी  सोळालाख  चोपन्नहजार  सातशे  एकोणनव्वद49/100
