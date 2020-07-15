@@ -26,7 +26,7 @@ $ sudo apt-get install idle
  For running this program craete the directories in IDE as shown below:
  
  <img src ="djangoproject/Images/hierarchy.jpg" width =200>
-   ![](djangoproject/Images/hierarchy.jpg)
+
   
  Compile the given codes
  1. urls.py
@@ -39,13 +39,13 @@ Open the browser and go to url :
  - http://localhost:8000/    opening the local host on local machine. This will show the 'homepage' web page as shown below
  <img src ="djangoproject/Images/homepage.jpg" width =200>
  
-   ![](djangoproject/Images/homepage.jpg)
+
       
      
  - http://localhost:8000/about/  This will show the 'About' web page as shown below
  
   <img src ="djangoproject/Images/About.jpg" width =200>
-   ![](djangoproject/Images/About.jpg)
+
 
 
 
