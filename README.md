@@ -25,7 +25,7 @@ $ sudo apt-get install idle
   
  For running this program craete the directories in IDE as shown below:
  
-   ![](django project/Images/hierarchy.jpg)
+   ![](djando project/Images/hierarchy.jpg)
   
  Compile the given codes
  1. urls.py
@@ -37,12 +37,12 @@ Run the server using below cmd from parent converterproject directory :
 Open the browser and go to url : 
  - http://localhost:8000/    opening the local host on local machine. This will show the 'homepage' web page as shown below
  
-   ![](django project/Images/homepage.jpg)
+   ![](djando project/Images/homepage.jpg)
       
      
  - http://localhost:8000/about/  This will show the 'About' web page as shown below
  
-   ![About page](django project/Images/About.jpg)
+   ![About page](djando project/Images/About.jpg)
 
 
 
