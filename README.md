@@ -24,7 +24,7 @@ $ sudo apt-get install idle
   
  For running this program craete the directories in IDE as shown below:
  
-      ![Hiearchy of Directories](hierarchy.jpg)
+   ![Hiearchy of Directories](hierarchy.jpg)
   
  Compile the given codes
  1. urls.py
