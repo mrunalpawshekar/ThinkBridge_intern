@@ -7,7 +7,8 @@ This is a python program which returns the output in words for the input currenc
    Make sure you have Python3 installed on your machine.
 The Python download requires about 25 Mb of disk space; keep it on your machine, in case you need to re-install Python. When installed, Python requires about an additional 90 Mb of disk space.
 
-        download from https://www.python.org/downloads/ and install it.
+        download from https://www.python.org/downloads/      
+and install it.
 
  **Python IDLE** (Integrated Development and Learning Environment) is an integrated development environment (IDE) for Python. The Python installer for Windows contains the IDLE module by default.
 
