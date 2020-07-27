@@ -35,7 +35,8 @@ Install django using following command:
  5. mainpage.html
  
 Run the server using below cmd from parent converterproject directory : It runs the manage.py file
-        $python manage.py runserver
+   
+      $python manage.py runserver
 
 Open the browser and go to url : 
  - http://localhost:8000/    opening the local host on local machine. This will show the 'mainpage' web page as shown below
@@ -44,5 +45,5 @@ Open the browser and go to url :
  
  the result will be seen like this:
  
-![](./images/to_english.jpg)
+![eng](./images/to_english.jpg)
       
