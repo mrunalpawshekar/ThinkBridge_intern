@@ -43,7 +43,11 @@ Open the browser and go to url :
  
  Give any no as input and select the scheme to convert the input in English/Hindi/Marathi text language .
  
- the result will be seen like this:
+ the results will be seen like this:
  
-![eng](./images/to_english.jpg)
+![](to_english.jpg)
+
+![](to_hindi.jpg)
+
+![](to_marathi.jpg)
       
