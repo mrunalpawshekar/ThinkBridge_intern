@@ -1,0 +1,33 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOMEPAGE</title>
+    <link rel ="stylesheet" href="{% static 'styles.css' %}">
+</head>
+<body >
+    
+<centre><div style="background-image:url({% static 'calculator_wall.jpg' %});width:1435px;height:715px;float:left; background-position: center;
+    background-repeat: no-repeat;background-size: cover;filter:blur(4px);margin-left:25px;-webkit-filter: blur(4px);"  ></div>
+    <div class="text_bg">
+
+    <h1 id="home" style="margin-top:15px"><b><i>Digit to Text Converter</i></b></h1>
+    <p>You have to provide an number as an input and will get the string converted into words as an result</p>
+   
+    <form method="POST" action="conversion">
+        {% csrf_token %}
+        {{ data.form }}<br><br><br>
+        
+          
+        <input type="submit" value="Submit">
+    </form>
+
+    
+    <h2> {{ data.result }}</h2>
+    </h1>
+</div></centre>
+</body>
+</html>
