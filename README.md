@@ -4,60 +4,45 @@ This is a python program which returns the output in words for the input currenc
 
 # Prerequisite 
 1. **Python3**
-   Make sure you have Python3 installed on your machine.
+Make sure you have Python3 installed on your machine.
 The Python download requires about 25 Mb of disk space; keep it on your machine, in case you need to re-install Python. When installed, Python requires about an additional 90 Mb of disk space.
+Download and Install from:
 
-        download from https://www.python.org/downloads/      
-and install it.
+      https://www.python.org/downloads/      
 
- **Python IDLE** (Integrated Development and Learning Environment) is an integrated development environment (IDE) for Python. The Python installer for Windows contains the IDLE module by default.
 
-IDLE is not available by default in Python distributions for Linux. It needs to be installed using the respective package managers. For example, in case of Ubuntu:
+2. **VS Code**
+Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring.
+Download nd Install it from:
 
-$ sudo apt-get install idle
+      https://code.visualstudio.com/download
 
-2. **Django Framework**
-   Django is a Python-based free and open-source web framework that follows the model-template-view architectural pattern.
-  Install django using following command:
+3. **Django Framework**
+Django is a Python-based free and open-source web framework that follows the model-template-view architectural pattern.
+Install django using following command:
   
           $ python -m pip install Django
   
-  
- For running this program craete the directories in IDE as shown below:
- 
- <img src ="djangoproject/Images/hierarchy.jpg" width =200>
+4. **Browser support**
+   Chrome , Internet Explorer
 
   
  Compile the given codes
  1. urls.py
  2. views.py
+ 3. forms.py
+ 4. styles.css
+ 5. mainpage.html
  
-Run the server using below cmd from parent converterproject directory : 
+Run the server using below cmd from parent converterproject directory : It runs the manage.py file
         $python manage.py runserver
 
 Open the browser and go to url : 
- - http://localhost:8000/    opening the local host on local machine. This will show the 'homepage' web page as shown below
- <img src ="djangoproject/Images/homepage.jpg" width =200>
+ - http://localhost:8000/    opening the local host on local machine. This will show the 'mainpage' web page as shown below
  
-
+ Give any no as input and select the scheme to convert the input in English/Hindi/Marathi text language .
+ 
+ the result will be seen like this:
+ 
+![](./images/to_english.jpg)
       
-     
- - http://localhost:8000/about/  This will show the 'About' web page as shown below
- 
-  <img src ="djangoproject/Images/About.jpg" width =200>
-
-
-
-
-
-
-
-### For this program to execute give the input as any cuurency of 6 digit upto 2 decimal precision and it will show the currency in words
-example:
-
-enter amount
-
-235648.65
-
-RS two lakh thirty five thousand six hundred fourty eigth
-  65 /100
