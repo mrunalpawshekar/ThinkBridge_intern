@@ -44,6 +44,7 @@ Open the browser and go to url :
  Give any no as input and select the scheme to convert the input in English/Hindi/Marathi text language .
  
  the results will be seen like this:
+![](to_english.jpg)
 
 ![](to_hindi.jpg)
 
