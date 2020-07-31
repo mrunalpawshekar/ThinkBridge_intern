@@ -34,6 +34,13 @@ Install django using following command:
  4. styles.css
  5. mainpage.html
  
+**currently it supports 3 languages  
+1. English
+2. Hindi
+3. Marathi
+
+**
+
 Run the server using below cmd from parent converterproject directory : It runs the manage.py file
    
       $python manage.py runserver
